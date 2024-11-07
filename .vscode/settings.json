@@ -1,0 +1,10 @@
+{
+    "go.alternateTools": {
+        
+    },
+    "go.formatTool": "default",
+    "go.useLanguageServer": true,
+    "[go]": {
+        "editor.formatOnSave": false
+    },
+}

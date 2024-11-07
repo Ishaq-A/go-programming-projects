@@ -1,0 +1,11 @@
+POST http://localhost:8080/events
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZXhhbXBsZS5jb20iLCJleHAiOjE3MzA5OTQ2MDMsInVzZXJJZCI6MX0.x-ePCMKJrsBoBUnwpiroR88ZXYVzpu208yzEPcbkToQ
+
+{
+    "name": "Test event",
+    "description": "A test event",
+    "location": "A test location",
+    "dateTime": "2024-11-07T14:00:00.000Z"
+}
+
